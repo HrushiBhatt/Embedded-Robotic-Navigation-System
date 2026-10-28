@@ -7,7 +7,7 @@ The system combines **embedded C, sensor integration, robot motion control, TCP 
 ## Demo
 
 - [Watch the robot demo](https://drive.google.com/file/d/17zTY26zI-6VLDzKnHN7GtRfwhL1wV5gx/view?usp=drive_link)
-- [View a captured radar scan](https://drive.google.com/file/d/16xv_A377L0o5gDUbLVbmbky7p9fTFUoK/view?usp=drive_link)
+- [View a captured radar scan](https://drive.google.com/file/d/1fBO3oBK7KrYdduAYPxW-klrQkZY_3J-x/view?usp=sharing)
 
 ## Core Features
 
